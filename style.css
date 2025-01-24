@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    background-color: rgb(48, 48, 48);
+}
+label{
+    font-size: 10rem;
+    background-color: white;
+}
+
+button{
+    font-size: 2rem;
+}
